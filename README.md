@@ -4,6 +4,8 @@
 ```
 $ python Administrator.py
 ```
+---
+
 ### for Windowd Administrator by Power shell
 ```
 $ powershell -ExecutionPolicy Bypass -File script.ps1
@@ -12,6 +14,8 @@ $ powershell -ExecutionPolicy Bypass -File script.ps1
 ```
 $ .\script.ps1
 ```
+---
+
 ### for Windowd Administrator by Batchfile or bat or cmd
 
 ### bat
@@ -23,6 +27,7 @@ $ Administrator.bat
 ```
 $ Administrator.cmd
 ```
+---
 
 ### (Linux)
 
@@ -30,6 +35,7 @@ $ Administrator.cmd
 ```
 $ python sudo.py
 ```
+---
 
 ### for Linux sudo by bash script or shell
 ```
